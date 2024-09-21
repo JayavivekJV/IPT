@@ -1,0 +1,20 @@
+browser = chrome
+url = https://adactinhotelapp.com/index.php
+username = jayavivek
+password = 4567890
+
+location = Sydney
+hotel = Hotel Sunshine
+room_type = Super Deluxe
+number_of_rooms = 2
+adult_per_room = 2
+child_per_room = 2
+
+first_name = Jayavivek
+last_name = J V
+billing_address = melbourne , australia
+credit_card_no = 1654098745673987
+credit_card_type = VISA
+expiry_date_month = 3
+expiry_date_year = 2027
+cvv_number = 3478
